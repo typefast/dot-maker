@@ -1,0 +1,36 @@
+
+/*******************
+	General styling
+*******************/
+
+body {
+	font-family: sans-serif;
+}
+
+p {
+	margin-top: .5em;
+	padding: 1em;
+	color: #111;
+	letter-spacing: 3px;
+}
+
+.wrapper {
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+.dot {
+	height: 20px;
+	width: 20px;
+	background: firebrick;
+	border-radius: 50%;
+	position: absolute;
+}
+
+#back {
+	height: 300px;
+	width: 300px;
+	background: #eee;
+	display: inline-block;
+}
